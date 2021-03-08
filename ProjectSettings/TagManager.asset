@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - feet
+  - floor
+  - enemy
+  - j_puzzle
+  - npc
+  - interact
+  - open
+  - ministop
+  - divider
+  - button
+  - breadsticks
+  - flan
+  - door
+  - key
+  - gate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - feet
+  - floor
+  - enemy
+  - j_puzzle
+  - npc
+  - interact
+  - ministop
+  - divider
+  - button
+  - breadsticks
+  - flan
+  - door
+  - key
+  - gate
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
